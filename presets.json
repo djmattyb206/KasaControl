@@ -1,0 +1,38 @@
+{
+    "Thanksgiving": [
+        {"name": "Front Porch", "color": [255, 140, 0], "description": "Orange"},
+        {"name": "Garage Left", "color": [255, 69, 0], "description": "Red"},
+        {"name": "Garage Center", "color": [255, 140, 0], "description": "Orange"},
+        {"name": "Garage Right", "color": [255, 69, 0], "description": "Red"}
+    ],
+    "Warm White": [
+        {"name": "Front Porch", "color": "Warm White"},
+        {"name": "Garage Left", "color": "Warm White"},
+        {"name": "Garage Center", "color": "Warm White"},
+        {"name": "Garage Right", "color": "Warm White"}
+    ],
+    "All Red": [
+        {"name": "Front Porch", "color": "Red"},
+        {"name": "Garage Left", "color": "Red"},
+        {"name": "Garage Center", "color": "Red"},
+        {"name": "Garage Right", "color": "Red"}
+    ],
+    "Kraken": [
+        {"name": "Front Porch", "color": [153, 217, 217], "description": "Ice Blue"},
+        {"name": "Garage Left", "color": [153, 217, 217], "description": "Ice Blue"},
+        {"name": "Garage Center", "color": [53, 84, 100], "description": "Boundless Blue"},
+        {"name": "Garage Right", "color": [104, 162, 185], "description": "Shadow Blue"}
+    ],
+    "Mariners": [
+        {"name": "Front Porch", "color": [12, 44, 86], "description": "Navy Blue"},
+        {"name": "Garage Left", "color": [0, 92, 92], "description": "Northwest Green"},
+        {"name": "Garage Center", "color": [196, 206, 212], "description": "Silver"},
+        {"name": "Garage Right", "color": [12, 44, 86], "description": "Navy Blue"}
+    ],
+    "Seahawks": [
+        {"name": "Front Porch", "color": [0, 34, 68], "description": "College Navy"},
+        {"name": "Garage Left", "color": [0, 34, 68], "description": "College Navy"},
+        {"name": "Garage Center", "color": [105, 190, 40], "description": "Action Green"},
+        {"name": "Garage Right", "color": [0, 34, 68], "description": "College Navy"}
+    ]   
+}
